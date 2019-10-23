@@ -1,0 +1,34 @@
+#html{
+    margin-top: 30pt;
+}
+#body{
+
+    background-image: url("../img/login.jpeg");
+    background-size: cover;
+    background-attachment: fixed;
+}
+#posts{
+    margin-top: 40pt;
+    max-width: 600pt;
+}
+#post{
+    color: white;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background: rgba(0, 0, 0, 0.9);
+    border-radius: 5px;
+    padding: 20pt;
+    text-wrap: normal;
+    border: 2px solid #4caf50;
+}
+.comment{
+    color: white;
+    background: rgba(0, 0, 0, 0.9);
+    text-wrap: normal;
+}
+hr{
+    border: 1px solid #4caf50;
+}
+.spacer{
+    margin-bottom: 100%;
+}
